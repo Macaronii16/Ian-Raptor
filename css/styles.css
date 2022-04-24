@@ -1,0 +1,89 @@
+#title{
+  background-color:	#C0C0C0;
+}
+
+h1 {
+  font-family: 'Gideon Roman', sans-serif;
+  font-size: 30rem;
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Redressed', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.navbar{
+  padding-button:4.5 rem;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+.downlaod-button{
+  margin:5% 3% 5% 0;
+}
+.navbar-brand {
+font-family: 'Montserrat', sans-serif;
+font-size: 2rem
+font-weight: bold;
+}
+
+#features{
+ padding: 7% 15%;
+ background-color: white;
+ position: relative;
+ z-index: 1;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+color: #C0C0C0;
+margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #808080;
+}
+
+/* Press Section */
+
+#press {
+background-color: #808080;
+text-align: center;
+padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+padding: 3% 2%;
+
+}
+
+#cta{
+text-align: center;
+
+}
+
+#footer{
+  text-align: center;
+}
